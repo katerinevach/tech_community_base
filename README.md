@@ -10,5 +10,5 @@ En este espacio Para recopilar y centralizar informacion sobre las comunidades t
 * encuenta sobre comunidades https://forms.gle/YYvgUSyBLjncbSbQ7
 
 ✨Programas
-OpenSource
-* Outreachy https://www.outreachy.org/
+* Outreachy https://www.outreachy.org/ (source)
+* Women Tech Maker https://developers.google.com/womentechmakers
