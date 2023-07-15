@@ -3,6 +3,7 @@ En este espacio Para recopilar y centralizar informacion sobre las comunidades t
 
 ✨Comunidades
 * Colombia por ciudad https://github.com/colombia-dev/colombia-dev.github.io
+* The Best Developer Communities to Join in 2020 - https://www.freecodecamp.org/news/best-developer-communities-to-be-part-of-in-2020/
 
 
 ✨Recursos
