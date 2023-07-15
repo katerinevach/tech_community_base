@@ -8,7 +8,7 @@ En este espacio Para recopilar y centralizar informacion sobre las comunidades t
 
 
 ✨Recursos
-* Charla sobre las comunidades (PionerasDev)
+* Charla sobre las comunidades (PionerasDev) https://docs.google.com/presentation/d/1Q6PhfiJqvqPQKpijHRyz-Z9M8hOfqxST3Ou2YBKcXB0
 * Encuenta sobre comunidades https://forms.gle/YYvgUSyBLjncbSbQ7
 
 ✨Programas
