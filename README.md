@@ -9,4 +9,6 @@ En este espacio Para recopilar y centralizar informacion sobre las comunidades t
 * Charla sobre las comunidades (PionerasDev)
 * encuenta sobre comunidades https://forms.gle/YYvgUSyBLjncbSbQ7
 
-Programas
+✨Programas
+OpenSource
+* Outreachy https://www.outreachy.org/
