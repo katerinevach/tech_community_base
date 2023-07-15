@@ -1,5 +1,5 @@
 # tech_community_base👩🏽‍💻
-En este espacio Para recopilar y centralizar informacion sobre las comunidades tech principalmente en Colombia, nivel regional y general.
+En este espacio Para recopilar y centralizar informacion sobre las comunidades tech principalmente en Colombia, a nivel regional y general.
 
 ✨Comunidades
 * Colombia por ciudad https://github.com/colombia-dev/colombia-dev.github.io
