@@ -7,7 +7,7 @@ En este espacio Para recopilar y centralizar informacion sobre las comunidades t
 
 ✨Recursos
 * Charla sobre las comunidades (PionerasDev)
-* encuenta sobre comunidades https://forms.gle/YYvgUSyBLjncbSbQ7
+* Encuenta sobre comunidades https://forms.gle/YYvgUSyBLjncbSbQ7
 
 ✨Programas
 * Outreachy https://www.outreachy.org/ (source)
