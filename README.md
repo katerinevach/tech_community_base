@@ -14,5 +14,5 @@ En este espacio Para recopilar y centralizar informacion sobre las comunidades t
 ✨Programas
 * [Outreachy](https://www.outreachy.org/) (open source)
 * [quansight](https://www.quansight.com) (open Source)
-* [quansight](https://labs.quansight.org/)
+* [quansight Labs](https://labs.quansight.org/) (colaborar en proyectos)
 * [Women Tech Maker] (https://developers.google.com/womentechmakers)
