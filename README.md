@@ -9,7 +9,7 @@ En este espacio Para recopilar y centralizar informacion sobre las comunidades t
 
 
 ✨Recursos
-* Encuenta sobre comunidades https://forms.gle/YYvgUSyBLjncbSbQ7
+* [Encuesta sobre comunidades](https://forms.gle/YYvgUSyBLjncbSbQ7)
 * [Charla GDG Santiago (Chile)](https://docs.google.com/presentation/d/1ESwz8oHWuYugsQEdYEltp7ml_aEf8Vr1zac1WJfuB0g/edit?usp=sharing)
 * [Charla sobre las comunidades (PionerasDev)](https://docs.google.com/presentation/d/1Q6PhfiJqvqPQKpijHRyz-Z9M8hOfqxST3Ou2YBKcXB0)
 
