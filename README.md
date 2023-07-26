@@ -4,6 +4,7 @@ En este espacio Para recopilar y centralizar informacion sobre las comunidades t
 ✨Comunidades
 * contribuye al descubrimiento de comunidades https://github.com/colombia-dev/colombia-dev.github.io
 * Comunidades en colombia por Ciudad https://colombia-dev.org/meetups
+* Comunidad de Google Cloud Plataform https://cloud.google.com/community
 * The Best Developer Communities to Join in 2020 - https://www.freecodecamp.org/news/best-developer-communities-to-be-part-of-in-2020/
 
 
